@@ -1,0 +1,35 @@
+{
+  "version": 2,
+
+  "core": {
+    "version": "0.19.0",
+    "downloadURL": "https://github.com/superpowers/superpowers-core/releases/download/v0.19.0/superpowers-0.19.0-core.zip"
+  },
+
+  "systems": {
+    "game": {
+      "version": "0.19.0",
+      "downloadURL": "https://github.com/superpowers/superpowers-game/releases/download/v0.19.0/superpowers-game.zip",
+      "plugins": {
+        "demo": {
+          "custom-api": {
+            "version": "0.2.0",
+            "downloadURL": "https://github.com/superpowers-extra/superpowers-game-api-demo-plugin/releases/download/v0.2/api-demo-plugin.zip"
+          }
+        }
+      }
+    },
+
+    "love2d": {
+      "version": "0.2",
+      "downloadURL": "https://github.com/superpowers/superpowers-love2d/releases/download/v0.2/superpowers-love2d.zip",
+      "plugins": {}
+    },
+
+    "web": {
+      "version": "0.1",
+      "downloadURL": "https://github.com/superpowers/superpowers-web/releases/download/v0.1/superpowers-web.zip",
+      "plugins": {}
+    }
+  }
+}
