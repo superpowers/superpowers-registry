@@ -21,14 +21,14 @@
     },
 
     "love2d": {
-      "version": "0.2",
-      "downloadURL": "https://github.com/superpowers/superpowers-love2d/releases/download/v0.2/superpowers-love2d.zip",
+      "version": "1.0.0",
+      "downloadURL": "https://github.com/superpowers/superpowers-love2d/releases/download/v1.0.0/superpowers-love2d-v1.0.0.zip",
       "plugins": {}
     },
 
     "web": {
-      "version": "0.1",
-      "downloadURL": "https://github.com/superpowers/superpowers-web/releases/download/v0.1/superpowers-web.zip",
+      "version": "1.0.0",
+      "downloadURL": "https://github.com/superpowers/superpowers-web/releases/download/v1.0.0/superpowers-web-v1.0.0.zip",
       "plugins": {}
     }
   }
