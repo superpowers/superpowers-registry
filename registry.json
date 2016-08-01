@@ -19,6 +19,13 @@
             "downloadURL": "https://github.com/superpowers-extra/superpowers-game-api-demo-plugin/releases/download/v0.2/api-demo-plugin.zip",
             "releaseNotesURL": "https://github.com/superpowers-extra/superpowers-game-api-demo-plugin/releases"
           }
+        },
+        "martinor": {
+          "easystar-js": {
+            "version": "0.1.0",
+            "downloadURL": "https://github.com/SparedRay/superpowers-game-martinor-easystarjs-plugin/releases/download/v0.1.0/superpowers-easystarjs-api.zip",
+            "releaseNotesURL": "https://github.com/SparedRay/superpowers-game-martinor-easystarjs-plugin/releases"
+          }
         }
       }
     },
