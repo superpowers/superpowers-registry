@@ -2,8 +2,8 @@
   "version": 2,
 
   "core": {
-    "version": "2.0.0",
-    "downloadURL": "https://github.com/superpowers/superpowers-core/releases/download/v2.0.0/superpowers-core-v2.0.0.zip",
+    "version": "2.1.0",
+    "downloadURL": "https://github.com/superpowers/superpowers-core/releases/download/v2.1.0/superpowers-core-v2.1.0.zip",
     "releaseNotesURL": "https://github.com/superpowers/superpowers-core/releases"
   },
 
