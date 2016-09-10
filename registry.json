@@ -28,27 +28,27 @@
           }
         },
         "florentpoujol": {
-          "fText": {
+          "ftext": {
             "version": "0.4.0",
             "downloadURL": "https://github.com/florentpoujol/superpowers-game-ftext-plugin/archive/v0.4.0.zip",
             "releaseNotesURL": "https://github.com/florentpoujol/superpowers-game-ftext-plugin/releases"
           },
-          "fMouseInput": {
+          "fmouseinput": {
             "version": "0.4.0",
             "downloadURL": "https://github.com/florentpoujol/superpowers-game-fmouseinput-plugin/archive/v0.4.0.zip",
             "releaseNotesURL": "https://github.com/florentpoujol/superpowers-game-fmouseinput-plugin/releases"
           },
-          "fLang": {
+          "flang": {
             "version": "0.4.1",
             "downloadURL": "https://github.com/florentpoujol/superpowers-game-flang-plugin/archive/v0.4.1.zip",
             "releaseNotesURL": "https://github.com/florentpoujol/superpowers-game-flang-plugin/releases"
           },
-          "DOM": {
+          "dom": {
             "version": "0.4.0",
             "downloadURL": "https://github.com/florentpoujol/superpowers-game-dom-plugin/archive/v0.4.0.zip",
             "releaseNotesURL": "https://github.com/florentpoujol/superpowers-game-dom-plugin/releases"
           },
-          "THREE.js": {
+          "threejs": {
             "version": "0.4.0",
             "downloadURL": "https://github.com/florentpoujol/superpowers-game-threejs-plugin/archive/v0.4.0.zip",
             "releaseNotesURL": "https://github.com/florentpoujol/superpowers-game-threejs-plugin/releases"
