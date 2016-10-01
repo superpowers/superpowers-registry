@@ -3,14 +3,14 @@
 
   "core": {
     "version": "3.0.0",
-    "downloadURL": "https://github.com/superpowers/superpowers-core/releases/download/v3.0.0/superpowers-core-v3.0.0.zip",
+    "downloadURL": "https://github.com/superpowers/superpowers-core/releases/download/v0.0.0/superpowers-core-v0.0.0.zip",
     "releaseNotesURL": "https://github.com/superpowers/superpowers-core/releases"
   },
 
   "systems": {
     "game": {
       "version": "3.0.0",
-      "downloadURL": "https://github.com/superpowers/superpowers-game/releases/download/v3.0.0/superpowers-game-v3.0.0.zip",
+      "downloadURL": "https://github.com/superpowers/superpowers-game/releases/download/v0.0.0/superpowers-game-v0.0.0.zip",
       "releaseNotesURL": "https://github.com/superpowers/superpowers-game/releases",
       "plugins": {
         "demo": {
