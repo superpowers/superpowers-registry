@@ -9,8 +9,8 @@
 
   "systems": {
     "game": {
-      "version": "4.0.0",
-      "downloadURL": "https://github.com/superpowers/superpowers-game/releases/download/v4.0.0/superpowers-game-v4.0.0.zip",
+      "version": "4.0.1",
+      "downloadURL": "https://github.com/superpowers/superpowers-game/releases/download/v4.0.1/superpowers-game-v4.0.1.zip",
       "releaseNotesURL": "https://github.com/superpowers/superpowers-game/releases",
       "plugins": {
         "demo": {
