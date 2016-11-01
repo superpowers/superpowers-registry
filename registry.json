@@ -58,15 +58,15 @@
     },
 
     "love2d": {
-      "version": "3.0.0",
-      "downloadURL": "https://github.com/superpowers/superpowers-love2d/releases/download/v3.0.0/superpowers-love2d-v3.0.0.zip",
+      "version": "3.0.1",
+      "downloadURL": "https://github.com/superpowers/superpowers-love2d/releases/download/v3.0.1/superpowers-love2d-v3.0.1.zip",
       "releaseNotesURL": "https://github.com/superpowers/superpowers-love2d/releases",
       "plugins": {}
     },
 
     "web": {
-      "version": "3.0.0",
-      "downloadURL": "https://github.com/superpowers/superpowers-web/releases/download/v3.0.0/superpowers-web-v3.0.0.zip",
+      "version": "3.0.1",
+      "downloadURL": "https://github.com/superpowers/superpowers-web/releases/download/v3.0.1/superpowers-web-v3.0.1.zip",
       "releaseNotesURL": "https://github.com/superpowers/superpowers-web/releases",
       "plugins": {}
     }
