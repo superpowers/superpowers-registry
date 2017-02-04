@@ -13,6 +13,13 @@
       "downloadURL": "https://github.com/superpowers/superpowers-game/releases/download/v4.0.3/superpowers-game-v4.0.3.zip",
       "releaseNotesURL": "https://github.com/superpowers/superpowers-game/releases",
       "plugins": {
+        "antca": {
+          "package-manager": {
+            "version": "0.3.0",
+            "downloadURL": "https://github.com/antca/superpowers-package-manager-plugin/releases/download/0.3.0/superpowers-package-manager-plugin.zip",
+            "releaseNotesURL": "https://github.com/antca/superpowers-package-manager-plugin/releases"
+          }
+        },
         "demo": {
           "custom-api": {
             "version": "0.2.0",
