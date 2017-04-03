@@ -68,7 +68,13 @@
       "version": "3.0.1",
       "downloadURL": "https://github.com/superpowers/superpowers-web/releases/download/v3.0.1/superpowers-web-v3.0.1.zip",
       "releaseNotesURL": "https://github.com/superpowers/superpowers-web/releases",
-      "plugins": {}
+      "plugins": {
+        "latex": {
+          "version": "0.0.1",
+          "downloadURL": "https://github.com/Pangoraw/superpowers-web-latex-plugin/archive/v0.0.1.zip",
+          "releaseNotesURL": "https://github.com/Pangoraw/superpowers-web-latex-plugin/releases"
+        }
+      }
     }
   }
 }
