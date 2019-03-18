@@ -69,10 +69,12 @@
       "downloadURL": "https://github.com/superpowers/superpowers-web/releases/download/v4.0.0/superpowers-web-v4.0.0.zip",
       "releaseNotesURL": "https://github.com/superpowers/superpowers-web/releases",
       "plugins": {
-        "latex": {
-          "version": "0.0.1",
-          "downloadURL": "https://github.com/Pangoraw/superpowers-web-latex-plugin/archive/v0.0.1.zip",
-          "releaseNotesURL": "https://github.com/Pangoraw/superpowers-web-latex-plugin/releases"
+        "Pangoraw": {
+          "latex": {
+            "version": "0.0.1",
+            "downloadURL": "https://github.com/Pangoraw/superpowers-web-latex-plugin/archive/v0.0.1.zip",
+            "releaseNotesURL": "https://github.com/Pangoraw/superpowers-web-latex-plugin/releases"
+          }
         }
       }
     }
