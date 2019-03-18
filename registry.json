@@ -2,15 +2,15 @@
   "version": 2,
 
   "core": {
-    "version": "4.0.0",
-    "downloadURL": "https://github.com/superpowers/superpowers-core/releases/download/v4.0.0/superpowers-core-v4.0.0.zip",
+    "version": "5.0.0",
+    "downloadURL": "https://github.com/superpowers/superpowers-core/releases/download/v5.0.0/superpowers-core-v5.0.0.zip",
     "releaseNotesURL": "https://github.com/superpowers/superpowers-core/releases"
   },
 
   "systems": {
     "game": {
-      "version": "4.0.3",
-      "downloadURL": "https://github.com/superpowers/superpowers-game/releases/download/v4.0.3/superpowers-game-v4.0.3.zip",
+      "version": "5.0.0",
+      "downloadURL": "https://github.com/superpowers/superpowers-game/releases/download/v5.0.0/superpowers-game-v5.0.0.zip",
       "releaseNotesURL": "https://github.com/superpowers/superpowers-game/releases",
       "plugins": {
         "demo": {
@@ -58,15 +58,15 @@
     },
 
     "love2d": {
-      "version": "3.0.1",
-      "downloadURL": "https://github.com/superpowers/superpowers-love2d/releases/download/v3.0.1/superpowers-love2d-v3.0.1.zip",
+      "version": "4.0.0",
+      "downloadURL": "https://github.com/superpowers/superpowers-love2d/releases/download/v4.0.0/superpowers-love2d-v4.0.0.zip",
       "releaseNotesURL": "https://github.com/superpowers/superpowers-love2d/releases",
       "plugins": {}
     },
 
     "web": {
-      "version": "3.0.1",
-      "downloadURL": "https://github.com/superpowers/superpowers-web/releases/download/v3.0.1/superpowers-web-v3.0.1.zip",
+      "version": "4.0.0",
+      "downloadURL": "https://github.com/superpowers/superpowers-web/releases/download/v4.0.0/superpowers-web-v4.0.0.zip",
       "releaseNotesURL": "https://github.com/superpowers/superpowers-web/releases",
       "plugins": {
         "latex": {
